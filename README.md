@@ -11,4 +11,3 @@ I've been learning coding for 4+ years now, my skills lie in HTML, CSS, JS, Java
 *   🧠  I'm learning Python
 *   🤝  I'm open to collaborating on interesting projects
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
